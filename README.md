@@ -1,2 +1,2 @@
 # git_test
-Hi
+This is the first HTML ODIN PROJECT
